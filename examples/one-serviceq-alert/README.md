@@ -1,6 +1,4 @@
-# Azure Metrics example
-
-[test.tf](./test.tf)
+# one service only 
 
 ## Requirements
 
@@ -42,3 +40,4 @@
 |------|-------------|
 | metric\_action\_group | Metric action group |
 | monitor\_metric\_alert | Metric alert map |
+

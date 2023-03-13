@@ -1,6 +1,6 @@
-# Azure Metrics example
+# No Alert example
 
-[test.tf](./test.tf)
+Create alarms but skip alerts
 
 ## Requirements
 
